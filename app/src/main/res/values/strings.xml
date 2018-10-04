@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">FirebasePushNotifications</string>
+    <string name="app_name">Firebase Push Notification</string>
     <string name="default_channel_id">Payment Notification</string>
 </resources>

@@ -8,12 +8,12 @@ public class TestCode {
 
     https://fcm.googleapis.com/fcm/send
 
-    Authorization:key=AIzXXXXXXXXXXXXXXXXX-XXXXXXXXXX
+    Authorization:key=AIzaSyC-hJVObBNCKSJjc-JNM9tcbsp7YDyqsHA
     Content-Type:application/json
 
 
     {
-        "to": "eoqklqLbmAg:APA91bFzQ3_QUOsEXDUcv9u_9wKBeuABpY9AoiqP02EFvo8TPyNE8c0J3SYX7PcT8rNP4JcTzhQ_xbYN_bi5jhnQ-V5LfMQvu8rhEzSUNFbPrJOv7l6cPOtnK6jynZMsjhWnB5ZWcmNG",
+        "to": "edyzrawCTQo:APA91bFyjk0iEvoWbtbqra-ovsnJww5UeBFMU0Pr6N4C9Mp2iasjE4NHj5xIX7GGnobNc7zZAz74lJTRzuIPvW_ouZOYEtZznJ9bvlmflsrPTlnWaLBVo6jcNpNK7LdFTvPF-1k0L44N",
             "collapse_key": "key_id",
             "notification": {
         "body": "Message",
